@@ -39,10 +39,10 @@ Movie Explorer helps movie fans discover and explore films. The web app allows u
 ![ER-diagram](https://github.com/user-attachments/assets/0e750ee9-ede8-4a59-bfed-2f581cfe3ee9)
 
 ## 👥 Authors  
-- [Veeti Punnonen](https://github.com/SheIITear)  
-- [Santeri Pasula](https://github.com/santeripas)  
-- [Martti Prittinen](https://github.com/MarttiPrittinen)  
-- [Jere Mäennenä](https://github.com/maennenajere)
+- [SheIITear](https://github.com/SheIITear)  
+- [santeripas](https://github.com/santeripas)  
+- [MarttiPrittinen](https://github.com/MarttiPrittinen)  
+- [maennenajere](https://github.com/maennenajere)
 
 ## 📜 License  
 You steal I steal
@@ -58,6 +58,3 @@ You steal I steal
 
 # Showtimes
 ![Screenshot 2024-12-15 170229](https://github.com/user-attachments/assets/b8d62b99-7764-4d85-bada-d5287959b1d1)
-
-## Acknowledgements
-We want to thank our school mentors for their help and guidance during the development of this project.
